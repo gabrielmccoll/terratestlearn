@@ -4,7 +4,7 @@ variable "namespace" {
 }
 
 variable "vpc" {
-    type = string
+    type = any
     
 }
 
